@@ -79,7 +79,7 @@ p {
     justify-content: left;
     height: 660px;
     padding-top: 80px;
-    background: #3A454D url("img/intro.png") center no-repeat;
+    background: #3A454D url("../img/intro.png") center no-repeat;
     background-size: cover;
 }
 
@@ -490,7 +490,7 @@ p {
 }
 
 .contact__wrap {
-    background: url('img/carta.png') center top no-repeat;
+    background: url('../img/carta.png') center top no-repeat;
     background-size: contain;
     padding-top: 140px;
     margin-top: 60px;
